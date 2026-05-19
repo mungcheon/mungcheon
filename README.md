@@ -1,6 +1,6 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eunseo's%20Lab&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%C2%B7%20Medical%20AI%20%C2%B7%20Game%20Dev&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=mungcheon's%20storage&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%C2%B7%20Medical%20AI%20%C2%B7%20Game%20Dev&descAlignY=60&descSize=18" />
 </div>
 
 <!-- ====== TYPING INTRO ====== -->
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Focus-Medical%20AI-2D8CFF?style=for-the-badge&logo=pubmed&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Game%20Dev-7B61FF?style=for-the-badge&logo=unity&logoColor=white" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square&color=4F8EF7&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=mungcheon&style=flat-square&color=4F8EF7&label=Profile+Views" />
 
 </div>
 
@@ -28,6 +28,19 @@
 ## 🌏 About Me
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🇰🇷 한국어
+> *"공부한 모든 것을 기록하기 — 지식을 오래 남는 무언가로."*
+
+- ✨ &nbsp; **생성형 AI**, **의료 AI**, **게임 개발**에 관심이 있습니다
+- 🔬 &nbsp; 딥러닝이 임상 데이터와 인터랙티브 세계에 닿는 지점을 탐구하고 있습니다
+- 🦄 &nbsp; 수업에서 배운 내용과 스스로 연구·개발한 내용을 기록하는 것이 목표입니다
+- 📧 &nbsp; 메일 주소는 **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)** 입니다
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -41,19 +54,6 @@
 
 </td>
 <td width="50%" valign="top">
-
-### 🇰🇷 한국어
-> *"공부한 모든 것을 기록하기 — 지식을 오래 남는 무언가로."*
-
-- ✨ &nbsp; **생성형 AI**, **의료 AI**, **게임 개발**에 관심이 있습니다
-- 🔬 &nbsp; 딥러닝이 임상 데이터와 인터랙티브 세계에 닿는 지점을 탐구하고 있습니다
-- 🦄 &nbsp; 수업에서 배운 내용과 스스로 연구·개발한 내용을 기록하는 것이 목표입니다
-- 📧 &nbsp; 메일 주소는 **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)** 입니다
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 ### 🇯🇵 日本語
 > *「学んだことすべてを記録する — 知識を長く残るものへ。」*
@@ -110,16 +110,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mungcheon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mungcheon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mungcheon&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=mungcheon&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 
 </div>
 
@@ -130,7 +130,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_ID/YOUR_GITHUB_ID/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mungcheon/mungcheon/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
@@ -142,7 +142,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmstj5308@gachon.ac.kr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mungcheon)
 
 </div>
 
