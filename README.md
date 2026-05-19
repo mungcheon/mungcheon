@@ -32,12 +32,11 @@
 <td colspan="2" valign="top">
 
 ### 🇰🇷 한국어
-> *"공부한 모든 것을 기록하기 — 지식을 오래 남는 무언가로."*
+> *"모든 것을 기록하기"*
 
 - ✨ &nbsp; **생성형 AI**, **의료 AI**, **게임 개발**에 관심이 있습니다
-- 🔬 &nbsp; 딥러닝이 임상 데이터와 인터랙티브 세계에 닿는 지점을 탐구하고 있습니다
-- 🦄 &nbsp; 수업에서 배운 내용과 스스로 연구·개발한 내용을 기록하는 것이 목표입니다
-- 📧 &nbsp; 메일 주소는 **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)** 입니다
+- 🔬 &nbsp; 수업에서 배운 내용과 스스로 연구·개발한 내용을 기록하는 것이 목표입니다
+- 📧 &nbsp; 이메일 : **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)** 
 
 </td>
 </tr>
@@ -45,23 +44,21 @@
 <td width="50%" valign="top">
 
 ### 🇺🇸 English
-> *"Document everything I learn — turn knowledge into something that lasts."*
+> *"Document everything"*
 
 - ✨ &nbsp; Interested in **Generative AI**, **Medical AI**, and **Game Development**
-- 🔬 &nbsp; Exploring where deep learning meets clinical data and interactive worlds
-- 🦄 &nbsp; My goal is to record what I study in class and what I research & build on my own
-- 📧 &nbsp; Reach me at **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)**
+- 🔬 &nbsp; My goal is to record what I study in class and what I research & build on my own
+- 📧 &nbsp; E-mail : **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇯🇵 日本語
-> *「学んだことすべてを記録する — 知識を長く残るものへ。」*
+> *「べてを記録する。」*
 
 - ✨ &nbsp; **生成AI**、**医療AI**、**ゲーム開発**に関心があります
-- 🔬 &nbsp; 深層学習が臨床データやインタラクティブな世界と交わる地点を探究しています
-- 🦄 &nbsp; 授業で学んだ内容や自ら研究・開発した内容を記録することが目標です
-- 📧 &nbsp; メールアドレスは **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)** です
+- 🔬 &nbsp; 授業で学んだ内容や自ら研究・開発した内容を記録することが目標です
+- 📧 &nbsp; メールアドレス : **[dmstj5308@gachon.ac.kr](mailto:dmstj5308@gachon.ac.kr)** 
 
 </td>
 </tr>
@@ -121,16 +118,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mungcheon&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mungcheon/mungcheon/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
